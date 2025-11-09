@@ -1,0 +1,14 @@
+C:\Users\asus\bakso\bin\Debug\net9.0\bakso.exe
+C:\Users\asus\bakso\bin\Debug\net9.0\bakso.deps.json
+C:\Users\asus\bakso\bin\Debug\net9.0\bakso.runtimeconfig.json
+C:\Users\asus\bakso\bin\Debug\net9.0\bakso.dll
+C:\Users\asus\bakso\bin\Debug\net9.0\bakso.pdb
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.AssemblyInfoInputs.cache
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.AssemblyInfo.cs
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.csproj.CoreCompileInputs.cache
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.dll
+C:\Users\asus\bakso\obj\Debug\net9.0\refint\bakso.dll
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.pdb
+C:\Users\asus\bakso\obj\Debug\net9.0\bakso.genruntimeconfig.cache
+C:\Users\asus\bakso\obj\Debug\net9.0\ref\bakso.dll
